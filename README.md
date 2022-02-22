@@ -1,4 +1,4 @@
-# Calculo do Percentual de Stockout de uma Empresa
+# [Intermediário] Calculo do Percentual de Stockout de uma Empresa
 Este programa recebe um dicionário que possui a seguinte estrutura:
 
 `vendas = {
